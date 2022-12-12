@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patricia @patsi97
-- 👀 I’m interested in Front end develop.
+- 👀 I’m interested in Frontend development.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me patricia.bukovac@gmail.com
