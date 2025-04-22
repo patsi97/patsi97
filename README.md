@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Patricia @patsi97
-- 👀 I’m interested in Frontend development.
-- 🌱 I’m currently learning Javascript and React.
-- 💞️ I’m looking to collaborate on front-end projects
+- 👋 Hi, I’m Patricia @patsi97, living in Frankfurt, Germany
+- 👀 I’m interested in Full stack development and building my own projects for fun and personal use.
+- 🌱 I’m currently doing Apprenticeship 
+- 💞️ I’m looking to collaborate on similiar projects
 - 📫 How to reach me patricia.bukovac@gmail.com
 
 <!---
